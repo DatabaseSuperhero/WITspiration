@@ -1,3 +1,4 @@
+![Alt text](logo.png "WITspiration")
 # WITspiration
 
 ## Mission Statement:
