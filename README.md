@@ -1,5 +1,6 @@
-![Alt text](logo.png "WITspiration")
-# WITspiration
+<p align="center">
+<img height=400 src="logo.png" alt="WITspiration">
+</p>
 
 ## Mission Statement:
 To inspire and empower women in tech, starting with the data platform community, to thrive in their careers through community based mentorship.
