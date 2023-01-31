@@ -1,3 +1,7 @@
+<p align="center">
+<img height=400 src="logo.png" alt="WITspiration">
+</p>
+
 # Code of Conduct
 
 WITspiration is dedicated to empowering every person and every organization on the planet to achieve more.
