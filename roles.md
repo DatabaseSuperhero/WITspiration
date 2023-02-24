@@ -9,7 +9,7 @@ WITSpiration is made up of different mentoring circles. The number of circles an
 
 ## Organizational Structure:
 - Organizers: 
-    - Deborah Melkin and Tracy Boggiano
+    - [Deborah Melkin](mailto:deb@witspiration.org) and [Tracy Boggiano](tracy@witspiration.org)
     - Duties:
         - Main contacts for questions and information
         - Organize kick-off meeting for each cycle
