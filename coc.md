@@ -43,4 +43,4 @@ Reach out to the organizers if you need anything.
 
 ## Reporting
 
-Please report any concerns, suspicious activity, or disruptive behavior to the WITspiration team at <WITspiration@>.
+Please report any concerns, suspicious activity, or disruptive behavior to the WITspiration team at [info@WITspiration@.org](mailto:info@WITspiration@.org).
