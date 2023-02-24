@@ -26,3 +26,6 @@ This will be determined by each group. We would like to see each group hold a me
 
 ## How many people in each circle?
 Each circle should be 3-4 people. As everyone in the group will be acting as mentors to each other, we don’t want to overwhelm each group with too many people. As this is designed to be mentoring circles, we also don’t want to assign 1:1 mentorships.
+
+## Sign Ups
+We are always accepting applications but only assign circles in three month cicles.  If you are interesting in signing up complete this [Goople Form](https://tinyurl.com/WITspirationInterest) and we will be in touch soon.
