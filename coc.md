@@ -45,4 +45,4 @@ Reach out to the organizers if you need anything.
 
 Please report any concerns, suspicious activity, or disruptive behavior to the WITspiration team at [info@WITspiration@.org](mailto:info@WITspiration@.org).
 
-* CoC was adapted from the [Azure Data Community Code of Conduct](https://developer.microsoft.com/en-us/azure-tech-groups/code-of-conduct).
+* CoC was adopted from the [Azure Data Community Code of Conduct](https://developer.microsoft.com/en-us/azure-tech-groups/code-of-conduct).
