@@ -2,7 +2,7 @@
 <img height=400 src="logo.png" alt="WITspiration">
 </p>
 
-# Code of Conduct
+# Code of Conduct*
 
 WITspiration is dedicated to empowering every person and every organization on the planet to achieve more.
 
@@ -44,3 +44,5 @@ Reach out to the organizers if you need anything.
 ## Reporting
 
 Please report any concerns, suspicious activity, or disruptive behavior to the WITspiration team at [info@WITspiration@.org](mailto:info@WITspiration@.org).
+
+* CoC was adapted from the [Azure Data Community Code of Conduct](https://developer.microsoft.com/en-us/azure-tech-groups/code-of-conduct).
