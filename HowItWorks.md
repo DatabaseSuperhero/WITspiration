@@ -23,7 +23,7 @@ If there are larger issues at play, please contact the organizers to help mediat
 The role of the Circle Leader is an organizational one. That person will be responsible for making sure the group is meeting and with communication back to the organizers. For circles wishing to meeting via Teams/Zoom/etc. Deb and Tracy will help facitliate the first meeting between the circle memebrs to make sure the cirlce gets off to a smooth beginning.
 
 ### Will there be interaction between the different circles?
-There are monthly meetings on the first Tuesday at noon EST with everyone and 7:00 AM EST for everyone to be able to participate as alarger group to get together.
+There are monthly meetings on the first Tuesday at noon EST with everyone and Thursday noon GMT for everyone to be able to participate as a larger group to get together.
 
 ### How often is each circle expected to meet?
 This will be determined by each circle. We would like to see each circle hold a meeting at least once a month. The circle can and should feel free to communicate via email or chats or other channels if they would like. The purpose is that each circle should be able to be flexible enough so that all members are able to participate and not feel overly burdened.
