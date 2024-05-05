@@ -18,6 +18,7 @@ WITSpiration is made up of different mentoring circles. The number of circles an
         - Check in with circle leaders to confirm each group has the support it needs.
         - Work with sponsors as needed
         - Create, maintain, and enforce code of conduct
+        - Facitilate fist meeting of circles if needed
 - Circle Leaders
     - A member of each circle will be assigned by organizers to be a circle leader
     - Duties:
