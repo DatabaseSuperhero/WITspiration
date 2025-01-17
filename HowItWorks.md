@@ -30,6 +30,3 @@ This will be determined by each circle. We would like to see each circle hold a 
 
 ### How many people in each circle?
 Each circle should be 4-5 people. As everyone in the circle will be acting as mentors to each other, we don’t want to overwhelm each circle with too many people. As this is designed to be mentoring circles, we also don’t want to assign 1:1 mentorships.
-
-## Sign Ups
-You may sign up for WITspiraiton [here](https://bit.ly/witspirationsignup) and will contact you shortly.
