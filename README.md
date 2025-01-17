@@ -8,6 +8,9 @@ To inspire and empower women in tech, starting with the data platform community,
 ## Commitment to DEI:
 We are committed to making sure WITspiration is open and welcoming to all and are committed to be a space that respects and encourages diversity, equality and inclusion.
 
+## Sign Ups
+You may sign up for WITspiraiton [here](https://bit.ly/witspirationsignup), and we will contact you shortly.
+
 ## Social Media
 - [LinkedIn](https://www.linkedin.com/groups/12786585/)
 - [Mastadon](https://dataplatform.social/@DPWITspiration)
