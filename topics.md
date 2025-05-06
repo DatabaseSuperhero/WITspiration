@@ -4,7 +4,7 @@
 
 # Mentoring Topics
 
-This is just a suggested list of topics that could be covered. 
+This is just a suggested list of topics that could be covered.
 
 - General career development
 - Deciding whether or not to change jobs
