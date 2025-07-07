@@ -12,7 +12,7 @@ We are committed to making sure WITspiration is open and welcoming to all and ar
 
 ## Sign Ups
 
-You may sign up for WITspiraiton [here](https://bit.ly/witspirationsignup), and we will contact you shortly.
+You may sign up for WITspiraiton [here](You can sign up for WITspiraiton [here](https://docs.google.com/forms/d/e/1FAIpQLSd3aQbrE70zFFUdKB9LVIhz4ReemJ4RWd2lZ-zT8q3YUs63LA/viewform?usp=sharing&ouid=102619307538916466096), and we will contact you soon.), and we will contact you shortly.
 
 ## Social Media
 
